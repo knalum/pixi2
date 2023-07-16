@@ -1,0 +1,22 @@
+{
+  "name": "pixi2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": " vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.10",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "pixi-stats": "^1.2.2",
+    "pixi-svg": "^3.2.0",
+    "pixi-viewport": "^5.0.1",
+    "pixi.js": "7.2.4"
+  }
+}

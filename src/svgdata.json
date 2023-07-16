@@ -1,0 +1,5 @@
+{
+  "svg1": "<svg id=\"svg1\" viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\"><circle r=\"10\" cx=\"50\" cy=\"50\" fill=\"#F00\" /></svg>",
+  "svg2": "<svg viewBox=\"0 0 105 93\" xmlns=\"http://www.w3.org/2000/svg\" data-width=\"105\" data-height=\"93\" id=\"svg2\">\n    <path d=\"M66,0h39v93zM38,0h-38v93zM52,35l25,58h-16l-8-18h-18z\" fill=\"#006600\"></path>\n</svg>",
+  "svg3": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 96 105\" data-width=\"96\" data-height=\"105\" id=\"svg3\">\n    <g fill=\"#97C024\" stroke=\"#97C024\" stroke-linejoin=\"round\" stroke-linecap=\"round\">\n        <path d=\"M14,40v24M81,40v24M38,68v24M57,68v24M28,42v31h39v-31z\" stroke-width=\"12\"></path>\n        <path d=\"M32,5l5,10M64,5l-6,10 \" stroke-width=\"2\"></path>\n    </g>\n    <path d=\"M22,35h51v10h-51zM22,33c0-31,51-31,51,0\" fill=\"#97C024\"></path>\n    <g fill=\"#FFF\">\n        <circle cx=\"36\" cy=\"22\" r=\"2\"></circle>\n        <circle cx=\"59\" cy=\"22\" r=\"2\"></circle>\n    </g>\n</svg>"
+}

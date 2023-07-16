@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>pixi2</title>
+    <link rel="stylesheet" type="text/css" href="src/style.css">
+</head>
+<body>
+<div id="top-panel">
+    pixi-edit
+</div>
+
+<div class="container">
+    <div class="left-panel prevent-select">
+        <button id="addRectangle">Rectangle</button>
+        <br/>
+        <button id="addCircle">Circle</button>
+        <br/>
+        <button id="addPolygon">Polygon</button>
+        <br/>
+        <button id="addLine">Line</button>
+        <br/>
+        <select id="svg">
+            <option value="default">Add SVG</option>
+            <option value="svg1">Circle</option>
+            <option value="svg2">Adobe</option>
+            <option value="svg3">Android</option>
+        </select><br/>
+        <hr/>
+        <div id="debug">Debug</div>
+    </div>
+
+    <div id="pixi" class="mid-panel"><!--pixi app--></div>
+    <div  class="right-panel"></div>
+</div>
+
+
+<script type="module" src="/src/main.ts"></script>
+
+
+</body>
+</html>
