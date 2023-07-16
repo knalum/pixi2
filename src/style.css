@@ -22,8 +22,8 @@ html, body {
 .mid-panel{
     flex:15
 }
-.right-panel{
-    flex:1
+#debug{
+    flex:3
 }
 .prevent-select {
     -webkit-user-select: none; /* Safari */
