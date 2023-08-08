@@ -1,5 +1,7 @@
 # pixi2 - web gl based editor 
 
+**Try it https://zippy-sundae-2a3ab1.netlify.app/**
+
 Created with pixi.js 
 
 Features:
